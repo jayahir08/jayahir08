@@ -47,11 +47,21 @@
 <br clear="both">
 
 <div align="center">
+<a href="https://www.linkedin.com/in/jaydeep-makwana-413b91307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="35" alt="linkedin logo"  />
+</a>
+<a href="mailto:a.j.makwana715@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="35" alt="gmail logo"  />
+</a>
+<a href="https://www.instagram.com/a_jay_1405?igsh=MTZoa2Rqa291Ymt1aQ==" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="35" alt="instagram logo"  />
+</a>
+<a href="https://wa.me/9904879097" target="_blank">  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="100" height="35" alt="whatsapp logo"  />
+</a>
+<a href="http://t.me/Jayahir0111" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="35" alt="telegram logo"  />
+</a>
 </div>
 
 ###
