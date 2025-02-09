@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **a.j.makwana715@gmail.com**
 
-- 📄 Know about my experiences [😁I'M Fresher😁](😁I'M Fresher😁)
+- 📄 Know about my experiences [😁I'M Fresher😁]
 
 - ⚡ Fun fact **I think I am Funny.**
 
