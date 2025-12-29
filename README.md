@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:020617,55:0ea5e9,75:020617,100:020617&height=200&section=header&text=Jaydeep%20Makwana&fontSize=42&fontColor=e5e7eb&animation=fadeIn&fontAlignY=40" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=000000&center=true&vCenter=true&width=760&lines=Python+%7C+Flask+%7C+Django;Frontend+%26+Backend;Clean+Systems+over+Noise" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=760&lines=Python+%7C+Flask+%7C+Django;Frontend+%26+Backend;Clean+Systems+over+Noise" />
 </p>
 
 
