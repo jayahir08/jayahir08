@@ -2,6 +2,17 @@
 
 <h3 align="center">Backend Developer • Python Specialist</h3>
 
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jayahir08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayahir08&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayahir08&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=760&lines=Python+%7C+Flask+%7C+Django;Backend+Systems+Engineer;Clean+Architecture+%7C+Scalable+APIs;Build+Fast+Break+Faster+Learn+Forever" />
 </p>
