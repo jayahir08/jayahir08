@@ -82,6 +82,10 @@ Focused developer building scalable backend systems and clean web architectures.
 
 ---
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayahir08&theme=tokyo-night&hide_border=true"/>
+</p>
+
 # 🧠 Current Focus
 
 • Backend performance  
