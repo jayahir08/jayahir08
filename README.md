@@ -68,7 +68,7 @@ Focused developer building scalable backend systems and clean web architectures.
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=jayahir08&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=jayahir08"/>
 </p>
 
 
