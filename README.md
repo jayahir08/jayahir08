@@ -60,7 +60,7 @@ Focused developer building scalable backend systems and clean web architectures.
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayahir08&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayahir08&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </p>
 
