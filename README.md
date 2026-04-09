@@ -3,30 +3,30 @@
 <h3 align="center">Backend Developer • Python Specialist</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jayahir08&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=760&lines=Python+%7C+Flask+%7C+Django;Backend+Systems+Engineer;Clean+Architecture+%7C+Scalable+APIs;Build+Fast+Break+Faster+Learn+Forever"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=760&lines=Python+%7C+Flask+%7C+Django;Backend+Systems+Engineer;Clean+Architecture+%7C+Scalable+APIs;Build+Fast+Break+Faster+Learn+Forever" />
+<img src="https://komarev.com/ghpvc/?username=jayahir08&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-<sub style="color:#66696d; font-size: 20px;">
+<sub style="color:#66696d; font-size:18px;">
 Focused developer building scalable backend systems and clean web architectures.
 </sub>
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
 # ⚡ About Me
 
-• Backend Developer from India  
+• Backend developer from India  
 • Focus: **Python backend & scalable APIs**  
 • Stack: **Flask • Django • MongoDB • MySQL**  
-• Strong interest in **system design & performance**  
-• Building real products, not just tutorials  
+• Interested in **system design & performance engineering**  
+• Building **real-world products**
 
 > Quiet mindset. Sharp execution. Code over noise.
 
@@ -59,8 +59,16 @@ Focused developer building scalable backend systems and clean web architectures.
 
 ---
 
-# 📊 GitHub Stats
+# ⭐ Featured Projects
 
+• **Flask SaaS Dashboard** – scalable admin panel  
+• **REST API Auth System** – JWT authentication system  
+• **Fullstack React + Django App** – production style architecture  
+• **Automation Tools** – Python scripts for productivity  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayahir08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
@@ -68,30 +76,25 @@ Focused developer building scalable backend systems and clean web architectures.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jayahir08"/>
-</p>
-
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayahir08&theme=tokyonight&hide_border=true"/>
-
-
+<img width="60%" src="https://streak-stats.demolab.com?user=jayahir08&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 ---
 
+# 📈 Contribution Graph
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayahir08&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
 
 # 🧠 Current Focus
 
 • Backend performance  
 • API architecture  
 • Database optimization  
-• Docker based deployment  
+• Docker deployment  
 
 ---
 
@@ -128,11 +131,11 @@ Focused developer building scalable backend systems and clean web architectures.
 ---
 
 <p align="center">
-<code style="color:rgb(56, 56, 56); font-weight:bold; font-family:monospace; letter-spacing:2px;">⟬ build → break → learn → repeat ⟭</code>
+<code>⟬ build → break → learn → repeat ⟭</code>
 </p>
 
 <p align="center">
-<code style="color:rgb(56, 56, 56); font-weight:bold; font-family:monospace; letter-spacing:2px;">© 2026 Jaydeep Makwana</code>
+<code>© 2026 Jaydeep Makwana</code>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer"/>
