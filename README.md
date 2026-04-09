@@ -95,7 +95,7 @@ Focused developer building scalable backend systems and clean web architectures.
 ---
 
 <div align="center">
-<img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZrNzZncXN5NGc3a3dvNWt1bWc3YjJrbWozYmkxc292dWxtaHZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"/>
+<img height="300"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZrNzZncXN5NGc3a3dvNWt1bWc3YjJrbWozYmkxc292dWxtaHZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"/>
 </div>
 
 <p align="center"><sub style="color:#64748b;">Deep focus. No distractions.</sub></p>
